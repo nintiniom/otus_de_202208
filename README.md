@@ -1,2 +1,2 @@
 # otus_de_202208
-Data Engineer 
+для домашних работ на курс Data Engineer от OTUS
